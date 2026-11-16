@@ -1,0 +1,27 @@
+Variáveis de interesse dos dados geográficos do IBGE:
+
+D0170 e D0171 - SEXO DO MORADOR RESPONSÁVEL PELO DOMICÍLIO
+
+1 - Masculino
+2 - Feminino
+9 - ignorado
+
+Valor -> para domicílios coletivo com morador ou improvisados ocupados(com tipo de espécie diferente de "dentro do estabelecimento em funcionamento" ou "estrutura não residencial permanente degradada ou inacabada").
+
+D0180 e D0181 - Idade da pessoa responsável pelo domicílio, categoria
+
+obs.: bem extensa-> verificar documento original a categorização
+
+D0350 - Rendimento domiciliar
+
+D0360 - Rendimento domiciliar per capita
+
+D370 - Total de homens no domicílio
+
+D0380 - Total de mulheres no domicílio
+
+-> VER O RESTO NO GEMINI. LÁ É ENCONTRADO UM RESUMO INTERESSANTE DAS VARIÁVEIS DE INTERESSE CONFORME AS NOSSAS NECESSIDADES DO PROJETO.
+
+
+
+

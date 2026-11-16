@@ -1,0 +1,13 @@
+logs/
+airflow.cfg
+data/
+data_manual/
+
+__pycache__/
+*.pyc
+
+*.csv
+*.xlsx
+*.json
+*.py[0-9]*
+*.py.*
